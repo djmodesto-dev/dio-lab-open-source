@@ -1,5 +1,5 @@
 # Contribuição em projeto open source da DIO! 
-Este é uma contribuição em projeto **open source** proposto pela plataforma de cursos de tecnologia ofertados pela *DIO* (Digital Innovation One).
+Esta é uma contribuição em projeto **open source** proposto pela plataforma de cursos de tecnologia ofertados pela *DIO* (Digital Innovation One).
 
 🎓Desenvolvido por: 
 **Daniel de Jesus Modesto**
